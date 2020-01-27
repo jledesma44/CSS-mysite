@@ -111,3 +111,6 @@ hr {
   text-decoration: none;
   font-weight: 900;
 }
+.styled:hover {
+  background-color: #0eacb1;
+}
