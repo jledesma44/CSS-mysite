@@ -114,3 +114,7 @@ hr {
 .styled:hover {
   background-color: #0eacb1;
 }
+.get-in-touch {
+  width: 50%;
+  margin: 10 auto 50 auto;
+}
