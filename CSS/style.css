@@ -111,14 +111,3 @@ hr {
   text-decoration: none;
   font-weight: 900;
 }
-.styled:hover {
-  background-color: #0eacb1;
-}
-.get-in-touch {
-  width: 50%;
-  margin: 10 auto 50 auto;
-}
-.styled:hover {
-  background-color: #0f888d;
-  
-}
